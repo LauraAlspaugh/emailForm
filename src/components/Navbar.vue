@@ -61,6 +61,7 @@ a:hover {
 
 .nav-color {
   background-color: #BFC9CA;
+  height: 32px;
 }
 
 .nav-link {

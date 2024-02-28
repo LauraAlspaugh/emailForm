@@ -11,7 +11,10 @@ body {
   flex-direction: column;
   min-height: 100vh;
   background-color: var(--bs-page);
+  border-right: 32px solid #BFC9CA;
+  border-left: 32px solid #BFC9CA;
 }
+
 
 main {
   flex-grow: 1;

@@ -6,7 +6,7 @@
     <router-view />
   </main>
   <footer class="text-light">
-    <p class="m-5 fs-5 footer-style"><i class="mdi mdi-copyright"></i> This email was created by Laura Alspaugh</p>
+
   </footer>
 </template>
 
