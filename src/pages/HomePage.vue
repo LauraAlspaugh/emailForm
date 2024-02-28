@@ -37,7 +37,7 @@
           alt="">
       </div>
     </section>
-    <section class="row  justify-content-center visit-section  mb-3">
+    <section class="row justify-content-center visit-section  mb-3">
       <div class="col-12">
         <p class="fs-4 text-center newsletter p-4">A Word of Inspo</p>
       </div>
@@ -53,7 +53,7 @@
         </p>
       </div>
     </section>
-    <section class="row d-flex justify-content-center ">
+    <section class="row d-flex justify-content-center mt-5">
       <div class="col-12 text-center w-75">
         <button class="btn visit-button p-3 mb-3">Get in Touch</button>
         <a class="prt-item" target="_blank" href="https://thejourney.lauraalspaugh.com" title="visit my site">
