@@ -36,6 +36,6 @@ footer {
   display: grid;
   place-content: center;
   height: 32px;
-  background-color: #E6B0AA;
+  background-color: #BFC9CA;
 }
 </style>
