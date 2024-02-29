@@ -25,13 +25,13 @@
       <div class="col-12">
         <p class="fs-4 text-center newsletter p-4">What's Happening</p>
       </div>
-      <div class="col-4 mb-3">
+      <div class="col-12 col-md-4 mb-3">
         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam error tenetur eos dolorem harum et minus
           atque repudiandae alias quis quas possimus eveniet expedita, accusamus nihil rem omnis a illum ipsa officiis
           amet in. Eum alias sint repellendus nihil? Quam vitae aperiam, vel id quis omnis maiores ducimus laboriosam ab!
         </p>
       </div>
-      <div class="col-4 mb-3">
+      <div class="col-12 col-md-4 mb-3">
         <img class="img-fluid second-image"
           src="https://images.unsplash.com/photo-1660849337659-2f2c9fdbb0e2?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YWVzdGhldGljJTIwYmlrZXxlbnwwfHwwfHx8MA%3D%3D"
           alt="">
@@ -41,12 +41,12 @@
       <div class="col-12">
         <p class="fs-4 text-center newsletter p-4">A Word of Inspo</p>
       </div>
-      <div class="col-4 mb-3">
+      <div class="col-12 col-md-4 mb-3">
         <img class="img-fluid second-image"
           src="https://images.unsplash.com/photo-1610589672438-cc7a4402af39?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGFlc3RoZXRpYyUyMGJpa2V8ZW58MHx8MHx8fDA%3D"
           alt="">
       </div>
-      <div class="col-4 mb-3">
+      <div class="col-12 col-md-4 mb-3">
         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam error tenetur eos dolorem harum et minus
           atque repudiandae alias quis quas possimus eveniet expedita, accusamus nihil rem omnis a illum ipsa officiis
           amet in. Eum alias sint repellendus nihil? Quam vitae aperiam, vel id quis omnis maiores ducimus laboriosam ab!
